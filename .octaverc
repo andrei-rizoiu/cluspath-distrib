@@ -1,0 +1,9 @@
+## Begin savepath auto-created section, do not edit
+## End savepath auto-created section
+
+more off;
+
+warning("off", "Octave:shadowed-function")
+pkg load all;
+addpath (genpath ('./code'));
+
