@@ -6,8 +6,10 @@ This code was developed as a research prototype and it should be treated as such
 
 Contains:
 ===
-The **ClusPath** source code and the CPDS1 dataset. For the description of the ClusPath algorithm, please check the paper:  
-[M.-A. Rizoiu, J. Velcin, S. Bonnevay and S. Lallich, "ClusPath: A Temporal-driven Clustering to Infer Typical Evolution Paths," Data Mining and Knowledge Discovery, pp. 1–26, 2015.](http://arxiv.org/pdf/1512.03501.pdf)
+The **ClusPath** source code and two datasets ([CPDS1 dataset](http://www.cpds-data.org/) and European Companies). For the description of the ClusPath algorithm, please check the paper:  
+<!--[M.-A. Rizoiu, J. Velcin, S. Bonnevay and S. Lallich, "ClusPath: A Temporal-driven Clustering to Infer Typical Evolution Paths," Data Mining and Knowledge Discovery, pp. 1–26, 2015.](http://arxiv.org/pdf/1512.03501.pdf)-->
+
+*Marian-Andrei Rizoiu, Julien Velcin, Stéphane Bonnevay, & Stéphane Lallich. [ClusPath: A Temporal-driven Clustering to Infer Typical Evolution Paths](http://link.springer.com/article/10.1007/s10618-015-0445-7). Data Mining and Knowledge Discovery **(DAMI)**, 30(5), pp. 1324-1349, (2016).* [paper here](http://arxiv.org/pdf/1512.03501.pdf)
 
 Requirements:
 ===
